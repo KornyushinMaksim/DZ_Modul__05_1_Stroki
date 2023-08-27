@@ -13,9 +13,9 @@ import java.util.Arrays;
 
 public class Task12 {
     public static void main(String[] args) {
-        String str = ":) dfgsd sdfg sdgf ;---------[[[[[[[ sgffg ::-( fgdsfg':-()";
-        String[] stringsStr = str.split(str, ' ');
+        //String str = ":) dfgsd sdfg sdgf ;---------[[[[[[[ sgffg ::-( fgdsfg':-()";
+        //String[] stringsStr = str.split(str, ' ');
 
-        System.out.println(Arrays.toString(stringsStr));
+        //System.out.println(Arrays.toString(stringsStr));
     }
 }
